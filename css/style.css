@@ -117,13 +117,19 @@
 }
 
 .navbar-light .navbar-nav .nav-link {
-    color: var(--dark);
+    color: #FFF;
     font-weight: 500;
 }
 
 .navbar-light.sticky-top {
     top: -100px;
     transition: .5s;
+}
+.nv-span{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        width: 100%;
 }
 
 @media (min-width: 992px) {
