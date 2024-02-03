@@ -3092,13 +3092,13 @@ fieldset:disabled .btn {
 
 .btn-primary {
   color: #000;
-  background-color: #2B2E63;
-  border-color: #2B2E63;
+  background-color: #2b2e63;
+  border-color: #2b2e63;
 }
 .btn-sec {
   color: #000;
-  background-color: #57ADBF;
-  border-color: #57ADBF;
+  background-color: #57adbf;
+  border-color: #57adbf;
 }
 
 .btn-nav {
@@ -8200,6 +8200,10 @@ fieldset:disabled .btn {
   font-size: 1rem !important;
 }
 
+.fs-7Carousel {
+  font-size: 0.75rem !important;
+}
+
 .fst-italic {
   font-style: italic !important;
 }
@@ -8297,7 +8301,7 @@ fieldset:disabled .btn {
   color: #06bbcc !important;
 }
 .text-ice {
-  color: #57ADBF !important;
+  color: #57adbf !important;
 }
 .text-logo {
   color: #fff !important;

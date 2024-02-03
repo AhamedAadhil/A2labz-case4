@@ -8,8 +8,8 @@ body {
   --primary: #06bbcc;
   --light: #f0fbfc;
   --dark: #181d38;
-  --rhino:#2B2E63;
-  --ice:#57ADBF;
+  --rhino: #2b2e63;
+  --ice: #57adbf;
 }
 
 .fw-medium {
@@ -172,6 +172,14 @@ body {
     height: 100%;
     object-fit: cover;
   }
+
+  #caroP1 {
+    font-size: 0.75rem !important;
+  }
+
+  #caroP2 {
+    font-size: 0.75rem !important;
+  }
 }
 
 .header-carousel .owl-nav {
@@ -188,7 +196,7 @@ body {
   margin: 7px 0;
   width: 45px;
   height: 45px;
-  display: flex;
+  display: none;
   align-items: center;
   justify-content: center;
   color: #ffffff;
