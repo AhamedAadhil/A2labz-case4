@@ -3092,8 +3092,13 @@ fieldset:disabled .btn {
 
 .btn-primary {
   color: #000;
-  background-color: #06bbcc;
-  border-color: #06bbcc;
+  background-color: #2B2E63;
+  border-color: #2B2E63;
+}
+.btn-sec {
+  color: #000;
+  background-color: #57ADBF;
+  border-color: #57ADBF;
 }
 
 .btn-nav {
@@ -8291,6 +8296,9 @@ fieldset:disabled .btn {
 .text-primary {
   color: #06bbcc !important;
 }
+.text-ice {
+  color: #57ADBF !important;
+}
 .text-logo {
   color: #fff !important;
 }
@@ -8441,7 +8449,7 @@ fieldset:disabled .btn {
 }
 
 .rounded-circle {
-  border-radius: 50% !important;
+  border-radius: 10% !important;
 }
 
 .rounded-pill {
