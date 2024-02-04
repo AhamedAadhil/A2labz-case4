@@ -5,11 +5,11 @@ body {
 }
 
 :root {
-  --primary: #06bbcc;
-  --light: #f0fbfc;
+  --primary: #FB8500;
+  --light: #fdf6ee;
   --dark: #181d38;
   --rhino: #2b2e63;
-  --ice: #57adbf;
+  --ice: #FB8500;
 }
 
 .fw-medium {
