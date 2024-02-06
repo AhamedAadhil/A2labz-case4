@@ -219,6 +219,13 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
 }
+.about-page-header {
+  background: linear-gradient(rgba(24, 29, 56, 0.7), rgba(24, 29, 56, 0.7)),
+    url(../img/about-us.png);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 
 .page-header-inner {
   background: rgba(15, 23, 43, 0.7);

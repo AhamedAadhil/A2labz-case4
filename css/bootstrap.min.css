@@ -645,6 +645,18 @@ progress {
   margin-right: auto;
   margin-left: auto;
 }
+.container-mission{
+  width: 100%;
+  padding-right: var(--bs-gutter-x, 0.75rem);
+  padding-left: var(--bs-gutter-x, 0.75rem);
+  margin-right: auto;
+  margin-left: auto;
+  padding-top: 18px;
+  padding-bottom: 18px;
+  border: 1px solid var(--rhino);
+  border-radius: 19px;
+  box-shadow: 0 0 10px rgba(12, 6, 65, 0.24);
+}
 
 @media (min-width: 576px) {
   .container,
