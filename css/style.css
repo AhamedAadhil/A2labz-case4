@@ -117,6 +117,7 @@ body {
 .navbar-light .navbar-brand,
 .navbar-light a.btn {
   height: 75px;
+  margin-top: -3px;
 }
 
 .navbar-light .navbar-nav .nav-link {
