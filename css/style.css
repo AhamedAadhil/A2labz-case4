@@ -5,11 +5,11 @@ body {
 }
 
 :root {
-  --primary: #FB8500;
+  --primary: #fb8500;
   --light: #fdf6ee;
   --dark: #181d38;
   --rhino: #2b2e63;
-  --ice: #FB8500;
+  --ice: #fb8500;
 }
 
 .fw-medium {
@@ -116,8 +116,8 @@ body {
 
 .navbar-light .navbar-brand,
 .navbar-light a.btn {
-  height: 75px;
-  margin-top: -3px;
+  height: 73px;
+  margin-top: 0px;
 }
 
 .navbar-light .navbar-nav .nav-link {
