@@ -181,6 +181,9 @@ body {
   #caroP2 {
     font-size: 0.75rem !important;
   }
+  .small-nav {
+    margin-right: 30px;
+  }
 }
 
 .header-carousel .owl-nav {
