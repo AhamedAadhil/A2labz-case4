@@ -1,0 +1,20 @@
+[
+  {
+    "certificate_number": "IIBT-2024-001",
+    "name": "John Silva",
+    "course": "HND in Quantity Surveying",
+    "issue_date": "2024-07-12"
+  },
+  {
+    "certificate_number": "IIBT-2024-002",
+    "name": "Anusha Perera",
+    "course": "AutoCAD Short Course",
+    "issue_date": "2024-08-10"
+  },
+  {
+    "certificate_number": "IIBT-2024-003",
+    "name": "Hamsath Umar",
+    "course": "CostX Short Course",
+    "issue_date": "2024-08-05"
+  }
+]
