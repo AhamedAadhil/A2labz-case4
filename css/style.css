@@ -521,7 +521,7 @@ body {
   opacity: 0;
   visibility: hidden;
   background: #fff;
-  fill: #03a9f4;
+  fill: #2b2e63;
   padding: 10px;
   border-radius: 50px;
   transition: opacity 0.9s, visibility 0.9s, top 0.9s, background 0.9s;
@@ -541,7 +541,7 @@ body {
   justify-content: center;
 }
 .tooltip-container:hover .tooltip1:hover {
-  background: #03a9f4;
+  background: #2B2E63;
   fill: #fff;
 }
 /* Fim do tooltip twitter */
